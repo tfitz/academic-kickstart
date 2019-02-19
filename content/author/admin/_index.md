@@ -76,6 +76,8 @@ interests = [
 
 +++
 
-Tim Fitzgerald is an assistant professor of mechanical engineering at Gonzaga University. His research interests include nonlinear dynamics, , mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to the website of Tim Fitzgerald, an assistant professor of mechanical engineering at Gonzaga University. My research interests include nonlinear dynamics, fluid-structure interactions, computational mechanics, and control theory.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I teach a variety of courses here at Gonzaga: from dynamics and vibrations to control theory.  Put another way, I tend to teach topics on mechanical models of things that move.
+
+When not in the lab or classroom, I enjoy backpacking, photography, and making music.

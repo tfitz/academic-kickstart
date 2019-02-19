@@ -6,7 +6,7 @@ widget = "custom"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -14,6 +14,13 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+Current semester:
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+- ENSC 481 Computational Dynamics (2019 Spring, 2018 Spring)
+- MENG 461 System Dynamics and Controls (2019 Spring, 2018 Fall, 2017 Fall, 2016 Fall, 2015 Fall)
+- ENSC 491 / 492 Senior Design Project I/II (2019, 2018)
+
+Other courses:
+
+- ENSC 306 Dynamics (2018 Spring, 2017 Spring, 2016 Spring)
+- MENG 434 Vibration Engineering (2015 Fall)
