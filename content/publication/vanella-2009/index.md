@@ -1,0 +1,11 @@
++++
+title = "Influence of flexibility on the aerodynamic performance of a hovering wing"
+date = 2009-01-01
+authors = ["M. Vanella", "T. Fitzgerald", "S. Preidikman", "E. Balaras", "B. Balachandran"]
+publication_types = ["2"]
+abstract = "In the present study, a computational investigation was carried out to understand the influence of flexibility on the aerodynamic performance of a hovering wing. A flexible, two-dimensional, two-link model moving within a viscous fluid was considered. The Navier–Stokes equations governing the fluid dynamics were solved together with the equations governing the structural dynamics by using a strongly coupled fluid–structure interaction scheme. Harmonic kinematics was used to prescribe the motions of one of the links, thus effectively reducing the wing to a single degree-of-freedom oscillator. The wing's flexibility was characterized by the ratio of the flapping frequency to the natural frequency of the structure. Apart from the rigid case, different values of this frequency ratio (only in the range of 1/2 to 1/6) were considered at the Reynolds numbers of 75, 250 and 1000. It was found that flexibility can enhance aerodynamic performance and that the best performance is realized when the wing is excited by a non-linear resonance at 1/3 of the natural frequency. Specifically, at Reynolds numbers of 75, 250 and 1000, the aerodynamic performance that is characterized by the ratio of lift coefficient to drag coefficient is respectively increased by 28%, 23% and 21% when compared with the corresponding ratios of a rigid wing driven with the same kinematics. For all Reynolds numbers, the lift generated per unit driving power is also enhanced in a similar manner. The wake capture mechanism is enhanced, due to a stronger flow around the wing at stroke reversal, resulting from a stronger end of stroke vortex at the trailing edge. The present study provides some clues about how flexibility affects the aerodynamic performance in low Reynolds number flapping flight. In addition, it points to the importance of considering non-linear resonances for enhancing aerodynamic performance."
+featured = false
+publication = "*Journal of Experimental Biology*"
+doi = "10.1242/jeb.016428"
++++
+

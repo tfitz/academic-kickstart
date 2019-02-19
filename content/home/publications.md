@@ -11,14 +11,14 @@ subtitle = ""
 weight = 20
 
 # Number of publications to list.
-count = 10
+count = 4
 
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view = 2
+view = 1
 
 # Filter by publication type.
 # -1: Any
@@ -34,4 +34,3 @@ publication_type = "-1"
 # Exclude publications that are shown in the Featured Publications widget?
 exclude_featured = false
 +++
-
