@@ -67,6 +67,16 @@ interests = [
   icon_pack = "fab"
   link = "https://github.com/tfitz"
 
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/timothymfitzgerald"
+
+# [[social]]
+#   icon = "orcid"
+#   icon_pack = "ai"
+#   link = "https://orcid.org/0000-0002-1532-517X"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
