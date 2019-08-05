@@ -17,8 +17,8 @@ weight = 60
 Current semester:
 
 - ENSC 481 Computational Dynamics (2019 Spring, 2018 Spring)
-- MENG 461 System Dynamics and Controls (2019 Spring, 2018 Fall, 2017 Fall, 2016 Fall, 2015 Fall)
-- ENSC 491 / 492 Senior Design Project I/II (2019, 2018)
+- MENG 461 System Dynamics and Controls (2019 Fall, 2019 Spring, 2018 Fall, 2017 Fall, 2016 Fall, 2015 Fall)
+- ENSC 491 / 492 Senior Design Project I/II (AY 2019, AY 2018, AY 2017)
 
 Other courses:
 
