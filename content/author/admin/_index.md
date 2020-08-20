@@ -6,7 +6,7 @@ name = "Tim Fitzgerald"
 superuser = true
 
 # Role/position
-role = "Assistant Professor of Mechanical Engineering"
+role = "Associate Professor of Mechanical Engineering"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -86,7 +86,7 @@ interests = [
 
 +++
 
-Welcome to the website of Tim Fitzgerald, an assistant professor of mechanical engineering at Gonzaga University. My research interests include nonlinear dynamics, fluid-structure interactions, computational mechanics, and control theory.
+Welcome to the website of Tim Fitzgerald, an associate professor of mechanical engineering at Gonzaga University. My research interests include nonlinear dynamics, fluid-structure interactions, computational mechanics, and control theory.
 
 I teach a variety of courses here at Gonzaga: from dynamics and vibrations to control theory.  Put another way, I tend to teach topics on mechanical models of things that move.
 
